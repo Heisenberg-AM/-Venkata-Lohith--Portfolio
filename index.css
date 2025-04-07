@@ -30,7 +30,8 @@ body {
 #overlay-text {
     position: absolute;
     font-size: 15px;
-    color: white;
+    color: gray;
+    font-size: larger;
     font-weight: bold;
     text-align: center;
     margin-left: 35vw;
@@ -66,7 +67,7 @@ body {
 .icon-link:hover{
     background-color: blue;
     color: black;
-    animation: ic 1s ease-in forwards;
+    animation: ic 0.5s ease-in forwards;
 }
 @keyframes ic{
     0% {opacity: .5;}
