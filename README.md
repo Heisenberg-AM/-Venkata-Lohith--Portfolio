@@ -14,7 +14,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 
 - HTML / CSS / JavaScript
 ## Link
-- https://heisenberg-am.github.io/-Venkata-Lohith--Portfolio/
+- [My Portfolio](https://heisenberg-am.github.io/-Venkata-Lohith--Portfolio/)
 
 
 
