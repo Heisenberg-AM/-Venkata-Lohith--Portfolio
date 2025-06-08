@@ -5,7 +5,7 @@ body {
     font-family: "Roboto Mono", monospace;
     /* animation: back 15s linear infinite; */
 }
- @keyframes back{
+ /* @keyframes back{
    0%{
      background-position-x: 0;
    }
@@ -13,8 +13,20 @@ body {
    100%{
      background-position-x: 10000px ;
    }
- } 
-
+ }  */
+.nav_bar{
+     height: 12%;
+    width: 100%;
+    background-image: linear-gradient(aquamarine 5%,black 95%);
+    
+    margin-top: 0px;
+    
+    position: sticky;
+    color: white;
+    top:0;
+    
+    
+}
 #section1{
     
     font-size: 5vh;
@@ -23,6 +35,7 @@ body {
     margin: 13vh 9vw;
 }
 .element1{
+    top:0;
     height: 30px;
     width: 100%;
     background-image: linear-gradient(aquamarine 10%,black 90%);
